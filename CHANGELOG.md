@@ -26,3 +26,7 @@
 # [1.2.1] - 13/03/2026
 - Aggiornato testo della label di dimensione e numero file
 - Ottimizzazione codice
+
+# [1.3.0] - 03/04/2026
+- Aggiunto tooltip sulle colonne **"Nome"** e **"Percorso"**
+- Riorganizzata posizione colonne
