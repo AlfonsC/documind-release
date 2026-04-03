@@ -23,6 +23,6 @@
 - Cambiato formato visualizzazione di **Data modifica** da **dd/MM/yyyy - HH:mm** a **dd/MM/yyyy HH:mm**
 - Aumentato effetto gradiente al backgrounds
 
-# [1.2.1] - 13/06/2026
+# [1.2.1] - 13/03/2026
 - Aggiornato testo della label di dimensione e numero file
 - Ottimizzazione codice
