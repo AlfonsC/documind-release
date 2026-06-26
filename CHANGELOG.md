@@ -30,3 +30,8 @@
 # [1.3.0] - 03/04/2026
 - Aggiunto tooltip sulle colonne **"Nome"** e **"Percorso"**
 - Riorganizzata posizione colonne
+
+# [1.4.0] - 26/06/2026
+- Aggiunta lista di tag riservati personalizzati configurabile nel file _config.json_ attraverso l'attributo `"customReservedTags":[]`
+- Le estensioni escluse tramite l'attributo `"excludedExtensions":[]` ora sono visualizzabili ma non sarà possibile aprirle facendo doppio click sul percorso del file.
+- Risolti alcuni bug
