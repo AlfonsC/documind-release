@@ -35,3 +35,7 @@
 - Aggiunta lista di tag riservati personalizzati configurabile nel file _config.json_ attraverso l'attributo `"customReservedTags":[]`
 - Le estensioni escluse tramite l'attributo `"excludedExtensions":[]` ora sono visualizzabili ma non sarà possibile aprirle facendo doppio click sul percorso del file.
 - Risolti alcuni bug
+
+# [1.4.1] - 20/10/2026
+- Rimosso pulsante "Visualizza tutti"
+- Aggiunto input-text di ricerca tramite regex
